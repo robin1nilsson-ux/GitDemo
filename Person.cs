@@ -8,5 +8,10 @@ namespace GitDemo
     internal class Person
     {
         public int Number { get; set; }
+        
+        public Person()
+        {
+
+        }
     }
 }
